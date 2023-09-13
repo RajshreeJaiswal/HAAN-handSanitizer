@@ -1,0 +1,24 @@
+img{
+    width: 110px;
+}
+.navbar{
+    width: 100%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: solid black 1px;
+    align-items: center;
+}
+h5{
+    width: 110px;
+  
+}
+.logout{
+    margin: 4px;
+    border: none;
+    background-color: white;
+}
+.logout:hover{
+    transform: scale(1.5);
+}
