@@ -18,7 +18,23 @@ const Cart = () => {
         "title": "Hydrating Hand Sanitizer & Lanyard Pack - Purifying Verbena",
         "price": 9.90,
         "description": "Clean your hands anytime and anywhere, wearing your favorite Purifying Verbena HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
-    }];
+    },
+    {
+        "id": 3,
+        "image": "https://haanready.com/cdn/shop/products/097_b1d76649-1e06-4321-bc51-e587fc52ef4d.jpg?v=1686050042",
+        "title": "Hand Sanitizer Refill VE",
+        "price": 9.90,
+        "description": "Do you want to get over 1200 sprays of your Purifying Verbena hand sanitizer? Get this Refill pouch now and enjoy clean and moisturized hands for a lifetime. Best part? By getting this Refill you reduce 89% of the amount of plastic used to create a HAAN Pocket. "
+
+    },
+    {
+        "id": 4,
+        "image": "https://haanready.com/cdn/shop/products/047.jpg?v=1651510161",
+        "title": "Hydrating Hand Sanitizer & Lanyard Pack - Purifying Verbena",
+        "price": 9.90,
+        "description": "Clean your hands anytime and anywhere, wearing your favorite Purifying Verbena HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
+    }
+    ];
 
     localStorage.setItem('cartItems', JSON.stringify(products));
 

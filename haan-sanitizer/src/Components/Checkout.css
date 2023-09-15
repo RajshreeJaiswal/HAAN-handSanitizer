@@ -1,0 +1,89 @@
+#nav {
+    border: 1px solid gray;
+}
+
+#nav img {
+    width: 80px;
+    height: 80px;
+}
+
+#checkout-title {
+    font-size: 70px;
+    text-align: left;
+    margin-top: -5px;
+    padding-left: 10px;
+    border-bottom: 1px solid gray;
+}
+
+#header {
+    display: flex;
+    padding: 0 120px;
+    gap: 45px;
+    border-bottom: 1px solid gray;
+    margin-top: -15px
+}
+
+#header p {
+    font-size: 20px;
+    /* margin: 0 20px; */
+    margin-top: -10px;
+}
+
+#header p:hover {
+    color: rgb(241, 141, 120);
+    cursor: pointer;
+}
+
+#input-div {
+    margin-top: 7%;
+}
+
+#next-btn {
+    border: 1px solid black;
+    background-color: rgb(241, 141, 120);
+    color: white;
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+#input-div input {
+    border: none;
+    border-bottom: 1px solid gray;
+    margin: 20px 0;
+    width: 80%;
+}
+
+#section-1,
+#section-2 {
+    height: 120px;
+}
+
+.checkoutCard {
+    display: flex;
+    padding: 10px;
+}
+
+.checkoutCard img {
+    width: 15%;
+    height: 12%;
+}
+
+#date {
+    font-size: 12px!important;
+    line-height: 18px!important;
+    font-family: montserrat-regular, sans-serif!important;
+    margin-left: 10px;
+    margin-top: -15px;
+    text-align: left;
+}
+
+#title {
+    line-height: 18px!important;
+    /* font-family: montserrat-regular, sans-serif!important; */
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: gray;
+    text-align: left;
+    margin-left: 10px;
+}
