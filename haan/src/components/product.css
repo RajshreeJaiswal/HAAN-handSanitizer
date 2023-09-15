@@ -1,0 +1,16 @@
+img{
+    width: 250px;
+}
+
+.product-page{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  width: 80%;
+  margin: auto;
+  gap: 20px;
+}
+.add-to-cart-button{
+    border-radius: 5px;
+    font-size: medium;
+    /* color: ; */
+}

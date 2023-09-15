@@ -1,0 +1,215 @@
+{
+    "handsanitizer":[
+        {
+            "id":1,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Margarita Spirit",
+            "image":"https://haanready.com/cdn/shop/products/058_fede7751-462d-4c06-bfd7-5c7bf8ccb10d.jpg?v=1651510010",
+            "price":"9,90€",
+            "description":"Safe vibes wherever you go with our Margarita Spirit HAAN Pocket and SHAKE IT UP  Case + Lanyard. Hanging out with friends? Going into a work meeting? Two toddlers tugging on your pants? Wear your Margarita Spirit HAAN Pocket as a necklace or attach it your backpack to have it always at hand. * (Hand Sanitizer Included)"
+        },
+        {
+            "id":2,
+            "name":"Hydrating Hand Sanitizer - Shake it Up 3 Pack",
+            "image":"https://haanready.com/cdn/shop/products/079.jpg?v=1651509828",
+            "price":"13,50€",
+            "description":"On the hand sanitizer menu we have: Margarita Spirit, Mojito Splash and Gentle Paloma, all three set to make you shake. Try them out and enjoy smooth hands while being sure that there are no longer any bacteria or viruses on them."
+        },
+        {
+            "id":3,
+            "name":"Hand Sanitizer Gentle Paloma",
+            "image":"https://haanready.com/cdn/shop/files/sanitizer_bottle_Paloma_grey-background_78649944-190c-4c16-940a-e853a7103600.jpg?v=1693478493",
+            "price":"5,90€",
+            "description":"Spice up your day with this gingery hand sanitizer: enjoy super hydrated hands with a delicious fruity smell! Its trendy and compact design makes it perfect to take along with you during your everyday activities."
+        },
+        {
+            "id":4,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Gentle Paloma",
+            "image":"https://haanready.com/cdn/shop/products/21_ad486890-7bdd-456c-ad98-331faf5ff086.jpg?v=1651509880",
+            "price":"13,40€",
+            "description":"You don’t have to worry about your purple hand sanitizer finishing, because with this pack you can extend its life up to 3 times. Get rid of 99,9% of bacteria and virus in your hands with your favorite Gentle Paloma cocktail. When has alcohol become so responsible?"
+        },
+        {
+            "id":5,
+            "name":"Hand Sanitizer Refill PA",
+            "image":"https://haanready.com/cdn/shop/products/10.jpg?v=1685367113",
+            "price":"9,90€",
+            "description":"Do you want to get over 1200 sprays of your Gentle Paloma hand sanitizer? This is your chance! Get a refill now and enjoy moisturized hands for even longer."
+        },
+        {
+            "id":6,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Gentle Paloma",
+            "image":"https://haanready.com/cdn/shop/products/057_7453dca9-be2f-4ad3-a6ef-6765e5188112.jpg?v=1651510031",
+            "price":"9,90€",
+            "description":"Wear your Gentle Paloma HAAN Pocket with a stylish SHAKE IT UP Lanyard + Case. A piece that literally goes with everything. Put on your hand sanitizer as a necklace or attached it to your bag to keep your hands clean and virus-free at all times! * (Hand Sanitizer Included)"
+        }
+        ,
+        {
+            "id":7,
+            "name":"Hand Sanitizer Tranquil Camomil",
+            "image":"https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Tranquil_Camomile.jpg?v=1693478183",
+            "price":"5,90€",
+            "description":"A heavenly camomile fragranced hand cleanser. Its natural formula kills 99.99% of bacteria and viruses with premium alcohol ethanol while nourishing your hands thanks to its Aloe Vera extract."
+        },
+        {
+            "id":8,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Tranquil Camomile",
+            "image":"https://haanready.com/cdn/shop/products/28_702debc4-53ef-4072-acb8-0fa3065f254a.jpg?v=1651510092",
+            "price":"13,40€",
+            "description":"Enjoy your favorite camomile-scented hand sanitizer as much as you like thanks to our Refill pouch. Once your bottle is done you can recharge it and extend its life up to 3 times to keep your spirit up thanks to its relaxing aroma."
+        },
+        {
+            "id":9,
+            "name":"Hand Sanitizer Refill CA",
+            "image":"https://haanready.com/cdn/shop/files/Refill_HZ_BE_TranquilCamomile.jpg?v=1686049901",
+            "price":"9,90€",
+            "description":"Your camomile inspired hand sanitizer can live up to 3 times thanks to our HAAN Refill. Once your HAAN Pocket is finished, refill it and reduce the amount of plastic used in the process. Buy your hand sanitizer once, twist its cap and refill for life!"
+        },
+        {
+            "id":10,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Tranquil Camomile",
+            "image":"https://haanready.com/cdn/shop/products/052.jpg?v=1651510175",
+            "price":"9,90€",
+            "description":"Clean your hands anytime and anywhere, wearing your favorite Tranquil Camomile HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
+        },
+        {
+            "id":11,
+            "name":"Hydrating Hand Sanitizer - Shake it Up 3 Pack",
+            "image":"https://haanready.com/cdn/shop/products/080.jpg?v=1651509840",
+            "price":"13,50€",
+            "description":"The new night out is… self-care! Protect yourself without losing the spark. Here’s the answer to your needs: Gentle Paloma, Margarita Spirit and Manhattan Glacé. Enjoy these signature aromas with the assurance of perfectly clean hands."
+        },
+        {
+            "id":12,
+            "name":"Hand Sanitizer Refill MH",
+            "image":"https://haanready.com/cdn/shop/products/1.jpg?v=1685367042",
+            "price":"9,90€",
+            "description":"Extend x3 your HAAN Pocket lifetime with an extra dose of our 100% vegan and cruelty-free formula. Don’t stop the party! It is time to have another shot of Manhattan Glacé!"
+        },
+        {
+            "id":13,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Manhattan Glacé",
+            "image":"https://haanready.com/cdn/shop/products/030_73833fab-3c4f-4a85-a766-1073b8ff761c.jpg?v=1651509854",
+            "price":"13,40€",
+            "description":"Your chic-est self-will desire? A never-ending hand sanitizer with fruity aromas and hydrating formula. Your hand sanitizer inspired by your favorite cocktail is here to make your dreams come true."
+        },
+        {
+            "id":14,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Manhattan Glacé",
+            "image":"https://haanready.com/cdn/shop/products/059_5a0ada14-50b3-4be3-86d7-3fc0d46e3070.jpg?v=1651510019",
+            "price":"9,90€",
+            "description":"Who needs hours of hunting for the perfect accessory when you have Manhattan Glacé’s HAAN Pocket and SHAKE IT UP’s Lanyard to go with everything? Wear your hand sanitizer and keep your hands clean and virus-free during day and night. * (Hand Sanitizer Included)"
+        },
+        {
+            "id":15,
+            "name":"Hand Sanitizer Auara",
+            "image":"https://haanready.com/cdn/shop/products/HAAN_19833_25d92e97-ea00-4eb4-b2d5-7636dcdb08a9.jpg?v=1651510987",
+            "price":"5,90€",
+            "description":"A hydrating hand sanitizer with an unforgettable green tea and grapefruit scent. Keep your hands clean and moisturized thanks to our Aloe Vera formula.WATER2, 100% benefits of this collaboration with AUARA will create a water tank in Kenya."
+        },
+        {
+            "id":16,
+            "name":"Hand Sanitizer Refill Auara",
+            "image":"https://haanready.com/cdn/shop/products/HAAN_19834_5641966e-1231-4385-b57d-c49b4e62d861.jpg?v=1651510990",
+            "price":"9,90€",
+            "description":"You can now refill your limited-edition hand sanitizer to make your hands soft and hydrated for longer. Buy your bottle once and reuse it for a lifetime thanks to this refill pouch.WATER2, 100% benefits of this collaboration with AUARA will create a water tank in Kenya."
+        },
+        {
+            "id":17,
+            "name":"Hydrating Hand Sanitizer - Blossom Elixir 3 Pack",
+            "image":"https://haanready.com/cdn/shop/products/083_67640df6-8852-4c7b-9be2-0c356c0a4422.jpg?v=1676287392",
+            "price":"13,50€",
+            "description":"A premium blend of medicinal flowers packed in a clean and recyclable hand sanitizer. Each HAAN Pocket contains 400+ spritzes to eliminate 99.99% of harmful virus and bacteria. Its lightweight and natural formula absorbs quickly, leaving your hands smelling great and feeling smooth."
+        },
+        {
+            "id":18,
+            "name":"Hydrating Hand Sanitizer - Blossom Elixir 3 Pack",
+            "image":"https://haanready.com/cdn/shop/products/081_1.jpg?v=1651510067",
+            "price":"13,50€",
+            "description":"The best scents inspired by the healing powers of floral and plant-derived extracts combined in one cute HAAN Pocket package: Bright Rose, Purifying Verbena and Healing Chrysants. The ideal mix of aromas to make you feel relaxed!"
+        },
+        {
+            "id":19,
+            "name":"Hand Sanitizer Bright Rose",
+            "image":"https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Bright_Rose.jpg?v=1693478149",
+            "price":"5,90€",
+            "description":"A non-sticky hand sanitizer that cleanses in-depth and is good for your skin. A premium formula with Aloe Vera keeps your hands hydrated and smooth while its fresh rose scents lingers on your fingertips."
+        },
+        {
+            "id":20,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Bright Rose",
+            "image":"https://haanready.com/cdn/shop/products/26.jpg?v=1651510110",
+            "price":"13,40€",
+            "description":"Your chic-est self-will desire? A never-ending hand sanitizer with flower aromas and a hydrating formula. This Bright Rose combo inspired by the healing powers of rose extracts is here to make your dreams come true."
+        },
+        {
+            "id":21,
+            "name":"Hand Sanitizer Refill RO",
+            "image":"https://haanready.com/cdn/shop/files/Refill_HZ_BE_BrightRose.jpg?v=1686050013",
+            "price":"9,90€",
+            "description":"Extend your HAAN Pocket’s lifetime with an extra dose of our 100% vegan and cruelty-free formula. Designed with the planet in mind, this Bright Rose Refill pouch smells like flowers paired with a green touch of geranium."
+        },
+        {
+            "id":22,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Bright Rose",
+            "image":"https://haanready.com/cdn/shop/products/HAAN_MAYO20211485_v3.jpg?v=1678811880",
+            "price":"9,90€",
+            "description":"Clean your hands anytime and anywhere, wearing your favorite Bright Rose HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
+        },
+        {
+            "id":23,
+            "name":"Hand Sanitizer",
+            "image":"https://haanready.com/cdn/shop/products/LAVENDER.jpg?v=1651510333",
+            "price":"5,90€",
+            "description":"A perfect hand sanitizer for every time of the day. Thanks to components such as aloe vera and its fragrances make it not only 99,9% effective, but also hydrate your hands and make them smell good."
+        },
+        {
+            "id":24,
+            "name":"Hand Sanitizer Refill LA",
+            "image":"https://haanready.com/cdn/shop/files/Refill_HZ_BE_SoothingLavender.jpg?v=1686049980",
+            "price":"9,90€",
+            "description":"Now your favorite lavender fragrance also kills 99,99% of bacteria and viruses while leaving your hands feeling soft and hydrated. Buy your HAAN Pocket once and refill it for life with this Smoothing Lavender pouch. Join the refillable revolution!"
+        },
+        {
+            "id":25,
+            "name":"Hand Sanitizer Soothing Lavender",
+            "image":"https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1693478355",
+            "price":"5,90€",
+            "description":"No need to travel to Aix-en-Provence to smell Lavender’s fresh aromatic scent. Its natural formula is packed with Aloe Vera extract to take care of your hands, keeping them hydrated, refreshed and clean."
+        },
+        {
+            "id":26,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Soothing Lavender",
+            "image":"https://haanready.com/cdn/shop/products/25.jpg?v=1651510085",
+            "price":"13,40€",
+            "description":"Our Soothing Lavender combo has come into our lives to stay (for a long time). Create a beautifully flower scented, healthy hand ritual by spraying this HAAN Pocket on your hands. The best part? You get a Refill pouch to recharge your hand sanitizer up to 3 times."
+        },
+        {
+            "id":27,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Soothing Lavender",
+            "image":"https://haanready.com/cdn/shop/products/HAAN_MAYO20211476_v2.jpg?v=1678812348",
+            "price":"9,90€",
+            "description":"Clean your hands anytime and anywhere, wearing your favorite Smoothing Lavender HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
+        },
+        {
+            "id":28,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Soothing Lavender",
+            "image":"https://haanready.com/cdn/shop/products/053_1.jpg?v=1651510188",
+            "price":"9,90€",
+            "description":"Clean your hands anytime and anywhere, wearing your favorite Smoothing Lavender HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
+        },
+        {
+            "id":29,
+            "name":"Hydrating Hand Sanitizer - Blossom Elixir 5 Pack",
+            "image":"https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Collection_pockets_all_products.jpg?v=1681718414",
+            "price":"24,90€",
+            "description":"Five mystical HAAN Pockets with delicious fragrances inspired by the healing powers of floral and plan-derived extracts. This collection is made out of cute and non-sticky hand sanitizers, that actually work and are good for your skin! Formulated with a liquid base and Aloe Vera, Blossom Elixir will keep you smelling flowery and feeling amazing throughout the day"
+        },
+        {
+            "id":30,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Morning Glory",
+            "image":"https://haanready.com/cdn/shop/products/17.jpg?v=1651509584",
+            "price":"13,40€",
+            "description":"Clean your hands anytime and anywhere with our portable hand cleanser. Thanks to our formula with aloe vera, your hands will be moisturized and 99,9% of the germs will be eliminated. It smells like flowers and there is no need to drain them!"
+        }
+    ]
+}
