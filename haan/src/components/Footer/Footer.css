@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    text-align: left;
+  }
+  .footer{
+    width: 100%;
+    border: solid black 1px;
+    display: flex;
+   flex-wrap: wrap;
+  }
+  .container{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    
+  }
+  .details{
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .left_footer{
+    width: 40%;
+    justify-content: center;
+    text-align: center;
+  }
+  .social_media{
+    margin: 2px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+  }
+.left_footer>input{
+   border: none;
+   border-bottom: 1px;
+}
