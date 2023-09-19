@@ -210,6 +210,90 @@
             "image":"https://haanready.com/cdn/shop/products/17.jpg?v=1651509584",
             "price":"13,40€",
             "description":"Clean your hands anytime and anywhere with our portable hand cleanser. Thanks to our formula with aloe vera, your hands will be moisturized and 99,9% of the germs will be eliminated. It smells like flowers and there is no need to drain them!"
+        },
+        {
+            "id":31,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Bright Rose",
+            "image":"https://haanready.com/cdn/shop/products/26.jpg?v=1651510110",
+            "price":"13,40€",
+            "description":"Your chic-est self-will desire? A never-ending hand sanitizer with flower aromas and a hydrating formula. This Bright Rose combo inspired by the healing powers of rose extracts is here to make your dreams come true."
+        },
+        {
+            "id":32,
+            "name":"Hand Sanitizer Refill RO",
+            "image":"https://haanready.com/cdn/shop/files/Refill_HZ_BE_BrightRose.jpg?v=1686050013",
+            "price":"9,90€",
+            "description":"Extend your HAAN Pocket’s lifetime with an extra dose of our 100% vegan and cruelty-free formula. Designed with the planet in mind, this Bright Rose Refill pouch smells like flowers paired with a green touch of geranium."
+        },
+        {
+            "id":33,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Bright Rose",
+            "image":"https://haanready.com/cdn/shop/products/HAAN_MAYO20211485_v3.jpg?v=1678811880",
+            "price":"9,90€",
+            "description":"Clean your hands anytime and anywhere, wearing your favorite Bright Rose HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
+        },
+        {
+            "id":34,
+            "name":"Hand Sanitizer",
+            "image":"https://haanready.com/cdn/shop/products/LAVENDER.jpg?v=1651510333",
+            "price":"5,90€",
+            "description":"A perfect hand sanitizer for every time of the day. Thanks to components such as aloe vera and its fragrances make it not only 99,9% effective, but also hydrate your hands and make them smell good."
+        },
+        {
+            "id":35,
+            "name":"Hand Sanitizer Refill LA",
+            "image":"https://haanready.com/cdn/shop/files/Refill_HZ_BE_SoothingLavender.jpg?v=1686049980",
+            "price":"9,90€",
+            "description":"Now your favorite lavender fragrance also kills 99,99% of bacteria and viruses while leaving your hands feeling soft and hydrated. Buy your HAAN Pocket once and refill it for life with this Smoothing Lavender pouch. Join the refillable revolution!"
+        },
+        {
+            "id":36,
+            "name":"Hand Sanitizer Soothing Lavender",
+            "image":"https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_pocket_Soothing_Lavender.jpg?v=1693478355",
+            "price":"5,90€",
+            "description":"No need to travel to Aix-en-Provence to smell Lavender’s fresh aromatic scent. Its natural formula is packed with Aloe Vera extract to take care of your hands, keeping them hydrated, refreshed and clean."
+        },
+        {
+            "id":37,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Soothing Lavender",
+            "image":"https://haanready.com/cdn/shop/products/25.jpg?v=1651510085",
+            "price":"13,40€",
+            "description":"Our Soothing Lavender combo has come into our lives to stay (for a long time). Create a beautifully flower scented, healthy hand ritual by spraying this HAAN Pocket on your hands. The best part? You get a Refill pouch to recharge your hand sanitizer up to 3 times."
+        },
+        {
+            "id":38,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Soothing Lavender",
+            "image":"https://haanready.com/cdn/shop/products/HAAN_MAYO20211476_v2.jpg?v=1678812348",
+            "price":"9,90€",
+            "description":"Clean your hands anytime and anywhere, wearing your favorite Smoothing Lavender HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
+        },
+        {
+            "id":39,
+            "name":"Hydrating Hand Sanitizer & Lanyard Pack - Soothing Lavender",
+            "image":"https://haanready.com/cdn/shop/products/053_1.jpg?v=1651510188",
+            "price":"9,90€",
+            "description":"Clean your hands anytime and anywhere, wearing your favorite Smoothing Lavender HAAN Pocket with a cool and convenient accessory. 2 in 1 has never looked this stylish! * (Hand Sanitizer Included)"
+        },
+        {
+            "id":40,
+            "name":"Hydrating Hand Sanitizer - Blossom Elixir 5 Pack",
+            "image":"https://haanready.com/cdn/shop/products/Hand_Sanitizer_BE_Collection_pockets_all_products.jpg?v=1681718414",
+            "price":"24,90€",
+            "description":"Five mystical HAAN Pockets with delicious fragrances inspired by the healing powers of floral and plan-derived extracts. This collection is made out of cute and non-sticky hand sanitizers, that actually work and are good for your skin! Formulated with a liquid base and Aloe Vera, Blossom Elixir will keep you smelling flowery and feeling amazing throughout the day"
+        },
+        {
+            "id":41,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Morning Glory",
+            "image":"https://haanready.com/cdn/shop/products/17.jpg?v=1651509584",
+            "price":"13,40€",
+            "description":"Clean your hands anytime and anywhere with our portable hand cleanser. Thanks to our formula with aloe vera, your hands will be moisturized and 99,9% of the germs will be eliminated. It smells like flowers and there is no need to drain them!"
+        },
+        {
+            "id":42,
+            "name":"Hydrating Hand Sanitizer & Refill Pack - Morning Glory",
+            "image":"https://haanready.com/cdn/shop/products/17.jpg?v=1651509584",
+            "price":"13,40€",
+            "description":"Clean your hands anytime and anywhere with our portable hand cleanser. Thanks to our formula with aloe vera, your hands will be moisturized and 99,9% of the germs will be eliminated. It smells like flowers and there is no need to drain them!"
         }
     ]
 }
